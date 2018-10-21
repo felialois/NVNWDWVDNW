@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{933EDC97-DEA3-5C42-C236-C9ABB0B112D7}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CompleteCameraController.cs">
+    <Files>
+      <File FileName="Assets/UnitySteer-3.0.0-RC2/Behaviors/SteerForNavmesh.cs" Line="96" Column="1" />
+      <File FileName="Assets/Soldier.cs" Line="46" Column="1" />
+      <File FileName="Assets/Skull.cs" Line="9" Column="5" />
+      <File FileName="Assets/CompleteCameraController.cs" Line="24" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
