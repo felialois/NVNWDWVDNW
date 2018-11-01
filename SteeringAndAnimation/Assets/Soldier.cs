@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnitySteer.Behaviors;
 
-[RequireComponent(typeof(SteerForPoint))]
+//[RequireComponent(typeof(SteerForPoint))]
 public class Soldier : MonoBehaviour
 {
 

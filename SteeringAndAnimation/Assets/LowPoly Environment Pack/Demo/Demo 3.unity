@@ -445,7 +445,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _weight: 1
   _acceptableDistance: 0
-  _slowDownOnApproach: 0
+  _slowDownOnApproach: 1
   _quarry: {fileID: 270847827}
   _maxPredictionTime: 1
 --- !u!114 &79876317
@@ -503,8 +503,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1.1014862, y: 1.6495457, z: 1}
+  m_Center: {x: -0.050743103, y: 0.7971697, z: 0}
 --- !u!54 &79876323
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1529,6 +1529,21 @@ Rigidbody:
   m_Interpolate: 1
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &270847832
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 270847825}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ac98d8852f2468f84827eb78064f63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _weight: 1
+  _menace: {fileID: 0}
+  _predictionTime: 0
+  _safetyDistance: 2
 --- !u!114 &270847833
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4334,11 +4349,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400052, guid: f3392e95529ae7540ad53657e3d0ce7d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.96
+      value: -1.04
       objectReference: {fileID: 0}
     - target: {fileID: 400052, guid: f3392e95529ae7540ad53657e3d0ce7d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -43.46
+      value: -7.27
       objectReference: {fileID: 0}
     - target: {fileID: 400052, guid: f3392e95529ae7540ad53657e3d0ce7d, type: 3}
       propertyPath: m_LocalRotation.x
@@ -9557,8 +9572,8 @@ SphereCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 1.4779738
-  m_Center: {x: 0.92328477, y: 0.23934889, z: -0.00000030048992}
+  m_Radius: 2.9261048
+  m_Center: {x: 0.51257247, y: 2.0160766, z: 0.0000000044427395}
 --- !u!1001 &2027452853
 Prefab:
   m_ObjectHideFlags: 0

@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Unity Staircase\Assets\Scripts\CreateStairs.js">
+    <Files>
+      <File FileName="..\Unity Staircase\Assets\Scripts\CreateStairs.js" Line="59" Column="46" />
+      <File FileName="..\Unity Staircase\Assets\Scripts\MoveChecker.js" Line="12" Column="32" />
+      <File FileName="..\Unity Staircase\Assets\Scripts\Stair.js" Line="12" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
