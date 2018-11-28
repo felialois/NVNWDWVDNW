@@ -6,6 +6,9 @@ TagManager:
   tags:
   - RemovableWalls
   - AddableWalls
+  - walls
+  - goal
+  - PlayerSmell
   layers:
   - Default
   - TransparentFX

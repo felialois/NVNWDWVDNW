@@ -102,13 +102,17 @@
      <Compile Include="Assets\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
      <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
-     <Compile Include="Assets\Scripts\Controller\EnemyController.cs" />
+     <Compile Include="Assets\Scripts\Controller\Enemy\EnemyController.cs" />
+     <Compile Include="Assets\Scripts\Controller\Enemy\FIndPlayerSmell.cs" />
      <Compile Include="Assets\Scripts\Controller\MaterialCOntroller.cs" />
+     <Compile Include="Assets\Scripts\Controller\Player\FindSmellPoints.cs" />
+     <Compile Include="Assets\Scripts\Controller\Player\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Controller\VisibilityCOntroller.cs" />
      <Compile Include="Assets\Scripts\DissolveControl.cs" />
      <Compile Include="Assets\Scripts\MazeAgent\AddWalls.cs" />
      <Compile Include="Assets\Scripts\MazeAgent\FIndClosestWall.cs" />
      <Compile Include="Assets\Scripts\MazeAgent\PlayerManager.cs" />
+     <Compile Include="Assets\Scripts\MazeAgent\RemoveFirstLine.cs" />
      <Compile Include="Assets\Scripts\MazeAgent\RemoveWalls.cs" />
      <Compile Include="Assets\Scripts\Portal\PortalCamera.cs" />
      <Compile Include="Assets\Scripts\Portal\PortalTeleporter.cs" />
@@ -405,6 +409,7 @@
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\ParadeRender.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\LutGen.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramRender.shader" />
+     <None Include="Assets\BrokenVector\TreeRandomizer\readme.txt" />
      <None Include="Assets\PostProcessing\Editor Resources\UI\CurveBackground.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
      <None Include="Assets\PostProcessing\Utilities\CustomMotionTexture\Shaders\CustomMotionVectorTexture.shader" />
@@ -676,6 +681,9 @@
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="Vuforia.UnityExtensions">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.GoogleAudioSpatializer">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll</HintPath>

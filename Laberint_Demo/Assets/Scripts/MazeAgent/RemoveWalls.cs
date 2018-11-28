@@ -16,21 +16,27 @@ public class RemoveWalls : MonoBehaviour {
     private float currentLerptime = 0;
     float distance_player_wall;
     bool isCoroutineStarted = false;
+    RaycastHit hit;
     FIndClosestWall find = new FIndClosestWall();
     // Use this for initialization
     bool foundwall = false;
+    private GameObject EndGate;
     void Start()
     { 
         var find = new FIndClosestWall();
         target = PlayerManager.instance.player.transform;
+        EndGate = GameObject.Find("End");
       
     }
 
     // Update is called once per frame
     void Update()
     {
-        float distance_endgate = Vector3.Distance(target.position, transform.position);
-
+       float distance_endgate = Vector3.Distance(target.position, transform.position);
+       if(Physics.Raycast(target.position, (EndGate.transform.position-target.position).normalized, out hit)){
+            Debug.Log(hit.collider.name);
+       }
+       // Debug.Log(h.collider.name);
 
         if (distance_endgate > lookRadius)
         {
