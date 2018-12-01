@@ -1,0 +1,99 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=5004 outsize=7289 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3245 outsize=5341 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1997 outsize=3521 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2021 outsize=3169 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=654 outsize=1093 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1093 outsize=1081 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 14 at (81): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  error: 2 plat 14 at (82): failed to open source file: 'CoreRP/ShaderLibrary/Shadow/ShadowMoments.hlsl'
+  api=14 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at (81): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  error: 2 plat 14 at (82): failed to open source file: 'CoreRP/ShaderLibrary/Shadow/ShadowMoments.hlsl'
+  api=14 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at (81): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  error: 2 plat 14 at (82): failed to open source file: 'CoreRP/ShaderLibrary/Shadow/ShadowMoments.hlsl'
+  api=14 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at (81): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  error: 2 plat 14 at (82): failed to open source file: 'CoreRP/ShaderLibrary/Shadow/ShadowMoments.hlsl'
+  api=14 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at (81): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  error: 2 plat 14 at (82): failed to open source file: 'CoreRP/ShaderLibrary/Shadow/ShadowMoments.hlsl'
+  api=14 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at (81): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  error: 2 plat 14 at (82): failed to open source file: 'CoreRP/ShaderLibrary/Shadow/ShadowMoments.hlsl'
+  api=14 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at (81): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  error: 2 plat 14 at (82): failed to open source file: 'CoreRP/ShaderLibrary/Shadow/ShadowMoments.hlsl'
+  api=14 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at (81): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  error: 2 plat 14 at (82): failed to open source file: 'CoreRP/ShaderLibrary/Shadow/ShadowMoments.hlsl'
+  api=14 insize=16784 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=2059 outsize=2129 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2129 outsize=3885 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=5004 outsize=7289 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=9166 outsize=9937 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=1470 outsize=1049 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1049 outsize=1069 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=2867 outsize=793 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=1806 outsize=1145 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2001 outsize=3541 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=1478 outsize=7445 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=7481 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=8157 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=8349 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=10317 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=7829 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=9533 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=11909 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=7245 outsize=13221 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=6033 outsize=10353 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=8813 outsize=15925 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9409 outsize=17757 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=8001 outsize=14993 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=8181 outsize=14981 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9301 outsize=17289 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9369 outsize=18101 ok=1
+
+Quitting shader compiler process
